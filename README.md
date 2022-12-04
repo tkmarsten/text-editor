@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-You can visit the deployed application [here]()
+You can visit the deployed application [here](https://tiarnanm-pwa-text-editor.herokuapp.com/)
 
 ## Contribution
 
